@@ -49,11 +49,11 @@ _(diese Regeln gelten für die Community, also immer dann, wenn ihr nicht in eur
 
 ### __**C. SPIELREGELN**__
 
-➜ die Spielregeln findet ihr hier: [#spielregeln ](c_spielregeln/README.md)
+➜ die Spielregeln findet ihr hier: [#spielregeln ](2_spielregeln/README.md)
 
 ### __**D. FRAKTIONSREGELN**__
 
-➜ die Fraktionsregeln findet ihr hier: [#fraktionsregeln](d_fraktionsregeln/README.md)
+➜ die Fraktionsregeln findet ihr hier: [#fraktionsregeln](3_fraktionsregeln/README.md)
 
 ### __**E. Änderungen**__
 
