@@ -7,11 +7,9 @@ Der Verwaltungsbezirk Blackfoot Creek befindet sich in einer fiktiven Realität 
 
 Vom Gaptooth im Südwesten Blackfoot Creeks bis hin zur den nordöstlichen Ausläufern der Roanoke Ridge haben die Menschen sich jedoch wenig gemein, die bestehenden Allianzen sind fragil und drohen an Kleinigkeiten zu zerbrechen. Alle Bewohner dieses merkwürdigen Landstrichs verbindet jedoch der Glaube an die Möglichkeit, seine eigene Zukunft frei formen zu können und aus sich das zu machen, was man schon immer sein wollte. 
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Island+Moments&display=swap" rel="stylesheet">
-<p style="text-align: right;">In diesem Sinne wünschen wir dir viel Erfolg auf deinem Weg, <br></p>
-<div style="font-family: 'Island Moments', cursive; text-align: right; font-size: 2em; color: #ff800d"> dein Team von Blackfoot Creek</div></p>
+In diesem Sinne wünschen wir dir viel Erfolg auf deinem Weg,
+
+dein Team von Blackfoot Creek
 
 
 #### **Regelwerk:**
