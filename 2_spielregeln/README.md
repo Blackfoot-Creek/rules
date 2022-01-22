@@ -14,11 +14,11 @@
 
 4. **Bugs und Cheats**
 
-    Nutze keine Bugs oder Cheats. Wer schummelt, verliert. Dem gleichgestellt ist das Nutzen von Spielmechaniken, die offensichtlich so nicht gedacht sind (Programmierfehler, Economy-Loopholes, etc.). Das Handeln mit Echtgeld ist verboten. Bugs werden nicht ausgespielt.
+    Nutze keine Bugs oder Cheats. Wer schummelt, verliert. Dem gleichgestellt ist das Nutzen von Spielmechaniken, die offensichtlich so nicht gedacht sind (Programmierfehler, Economy-Loopholes, etc.). Das Handeln mit Echtgeld ist verboten. Bugs werden nicht ausgespielt. Die Nutzung von Overwolf ist im Teamspeak untersagt, da es im Roleplay als Umgebungs-Aufdeckung verwendet werden kann. 
 
 5. **Hardware**
 
-    Benutze Hardware, die sich zum Roleplay eignen. Dein wichtigstes Werkzeug ist deine Stimme. Nutze bitte in Mikrofon, dass deine Stimme klar überträgt, sich nicht nach einem Dosentelefon von 1900 anhört. Wir unterstützen grundsätzlich das Spielen mit Controllern, allerdings sind dort nicht alle Funktionen immer verfügbar. Ohne Maus/Tastatur wirst du nicht durch den RP-Alltag kommen.
+    Benutze Hardware, die sich zum Roleplay eignen. Dein wichtigstes Werkzeug ist deine Stimme. Nutze bitte ein Mikrofon, dass deine Stimme klar überträgt, sich nicht nach einem Dosentelefon von 1900 anhört. Wir unterstützen grundsätzlich das Spielen mit Controllern, allerdings sind dort nicht alle Funktionen immer verfügbar. Ohne Maus/Tastatur wirst du nicht durch den RP-Alltag kommen.
 
 6. **Immersion**
 
