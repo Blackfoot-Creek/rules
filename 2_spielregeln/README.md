@@ -18,7 +18,7 @@
 
 5. **Hardware**
 
-    Benutze Hardware, die sich zum Roleplay eignen. Dein wichtigstes Werkzeug ist deine Stimme. Nutze bitte in Mikrofon, dass deine Stimme klar überträgt, sich nicht nach einem Dosentelefon von 1900 anhört. Wir unterstützen grundsätzlich das Spielen mit Controllern, allerdings sind dort nicht alle Funktionen immer verfügbar. Ohne Maus/Tastatur wirst du nicht durch den RP-Alltag kommen.
+    Benutze Hardware, die sich zum Roleplay eignen. Dein wichtigstes Werkzeug ist deine Stimme. Nutze bitte ein Mikrofon, dass deine Stimme klar überträgt, sich nicht nach einem Dosentelefon von 1900 anhört. Wir unterstützen grundsätzlich das Spielen mit Controllern, allerdings sind dort nicht alle Funktionen immer verfügbar. Ohne Maus/Tastatur wirst du nicht durch den RP-Alltag kommen.
 
 6. **Immersion**
 
