@@ -12,12 +12,13 @@
 4. **Fraktionsgröße**
     Zivile und Bad-Fraks dürfen aus maximal 15 Personen bestehen. Sie dürfen sich abweichend der Offensiv/Defensiv-Regel mit maximal 6 Personen offensiv betätigen, wenn dies vom Community Management bewilligt wurde. Staatliche Fraktionen haben keine begrenzte Mitgliederzahl, dürfen jederzeit mit 6 Personen offensiv agieren. Sollten sich mehrere Gruppierungen offensiv verbünden, dürfen diese nur dann mit bis zu 6 Personen agieren, wenn alle beteiligten Gruppierungen auch jeweils für sich alleine zu sechst vorgehen dürften.
 
+    Ausnahmsweise dürfen staatliche Gesetzeshüter-Fraks Zivilisten vorrübergehend und ohne weitere Formailitäten als "Aushilfe" mit Amtsaufgaben beleihen. Diese Ausnahmeregel ist zurückhaltend zu verwenden und erfordert jedenfalls eine Situation, bei der eine ausreichende Anzahl ordentlicher Gesetzeshüter nicht zugezogen werden können. Zudem muss Gefahr im Verzug bestehen.
+
 5. **Fraktionsaustritt (Zivil- und Staatsfrak)**
     Zivile Fraktionen können ihre Mitglieder durch Kündigung (mit oder ohne Einverständnis des Mitglieds) entlassen. Den Gekündigten ist es für 5 Spieltage (Tage an denen sich der Spieler für mindestens 30 Minuten IC befindet) nicht möglich, einer anderen Fraktion beizutreten.
 
 6. **Fraktionsein-/austritt (Bad-Frak)**
     Bad-Fraks können ihre Mitglieder nach einer mindestens dreitägigen Probezeit, per “Blood-in” in die Fraktion aufnehmen. Unter einem Blood-In verstehen wir, wenn dem aufzunehmenden Mitglied vor der Aufnahme klargemacht wird, dass ein Fraktionsaustritt nur über den sog. “Blood-Out” möglich ist. Zu diesem Zeitpunkt muss noch die Möglichkeit bestehen, sich unbeschadet von der Fraktion abzuwenden.
-
 
     Ein Austritt ist über ein “Blood-Out” möglich, dabei stirbt der Charakter. Alternativ kann die Fraktion mit dem Austretenden eine Vereinbarung treffen, unter welcher die Parteien ihrer Wege gehen. Dabei kann ein Blood-Out jedenfalls nachgeholt werden, wenn die Vereinbarung gebrochen wird. Blood-Outs bedürfen keiner Bewilligung vom Community Management, werden aber von diesem begleitet. Daher sind sie anzumelden.
 

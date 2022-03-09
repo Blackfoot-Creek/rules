@@ -6,7 +6,7 @@
 
 2. **Schütze dein Leben** 
 
-    Dein Leben ist dein oberstes Gut, es zu schützen ist dein stärkster Antrieb. Der Vodooheiler (Respawn-Funktion) ist etwas unzuverlässig.
+    Dein Leben ist dein oberstes Gut, es zu schützen ist dein stärkster Antrieb. Der Vodooheiler (Respawn-Funktion) ist etwas unzuverlässig. Spiele deine Verletzungen ordentlich aus, damit diese gut verheilen können.
 
 3. **Namen**
 
@@ -28,9 +28,9 @@
 
     Bleib in deinem Charakter, und nimm nichts dorthin mit. Die folgenden Verhaltensweisen sind im Roleplay nicht gestattet:
 
-    - Meta | Das Verwenden von Informationen die du außerhalb deines Charakters bekommen hast
+    - Meta | Das Verwenden von Informationen die du außerhalb deines Charakters bekommen hast. 
 
-    - Power | Das Aufzwingen einer Situation. Lass deinen Mitspielern Luft zum atmen und die Gelegenheit, sich einer Situation zu entziehen
+    - Power | Das Aufzwingen einer Situation. Lass deinen Mitspielern Luft zum atmen und die Gelegenheit, sich einer Situation zu entziehen. Gebt eurem gegenüber Handlungsspielraum, indem ihr z.B. bei Erpressungsituationen erfüllbare Forderungen stellt.
 
     - Random Deathmatch | Offensive Handlungen (Fäuste, Lassos, Waffen) gegen Personen, Tiere oder NPC's ohne RP-Hintergrund. Dies gilt auch für das Führen von Pferden/Wagen (HDM, VDM).
 
@@ -50,6 +50,8 @@
 
     * **Offensiv & Defensiv |**
     bei Auseinandersetzungen gilt die einleitende Gruppe als offensiv, die gegenüberstehende Gruppe als defensiv. Offensive Gruppen dürfen nicht mit mehr als 4 Charakteren agieren, Nachrücken/Austauschen ist während der Aktion nicht gestattet. Wird die offensive Gruppe auf das eigene Hauptquartier zurückgedrängt, darf sie dort mit voller Charakterstärke agieren.
+
+    Wenn eine Gruppierung (z.B. Gesetzeshüter) zum "Gegenschlag" oder ähnlichem ausholt, gilt diese auch als Offensiv. Es können folglich mehrere offensive Gruppierungen als offensiver Part an einer RP-Situation beteiligt sein.
 
     * **3rd Party |**
     Das Eingreifen in laufende Aktionen ist allen Gruppen/Charakteren untersagt, welche für die gegnerischen Gruppe bei Beginn der Aktion nicht als Akteur erkennbar waren. Sich erkennbar zu machen ist Aufgabe derer, die sich einzumischen beabsichtigen. 
@@ -71,7 +73,11 @@
 
 10. **Maskierung**
 
-    Maskierte Personen (Maske/aufgezogene Bandanas) können nicht anhand der Stimme identifiziert werden. Pferd/Wagen sowie verwendete Kleidung/Waffen können als Indiz dienen, allerdings ist davon auszugehen, dass im Einzugsbereich von Blackfoot Creek diese mehrfach vorkommen. Davon ausgenommen sind Signature-Outfits, diese dürfen erkannt werden. 
+    Maskierte Personen (Maske/aufgezogene Bandanas) können nicht anhand der Stimme identifiziert werden. Es muss deutlich hörbar sein, dass man gerade maskiert ist - schliesslich ist da etwas vor deinem Mund. Zieht euch ne FFP2-Maske auf, werdet kreativ!
+
+    Pferd/Wagen sowie verwendete Kleidung/Waffen können als Indiz dienen, allerdings ist davon auszugehen, dass im Einzugsbereich von Blackfoot Creek diese mehrfach vorkommen. Davon ausgenommen sind Signature-Outfits, diese dürfen erkannt werden. 
+
+    Mehrere Indizien können zusammengenommen zu einer beweisartigen Situation führen.
 
 11. **New Life**
 
