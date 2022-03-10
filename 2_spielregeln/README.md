@@ -49,9 +49,7 @@
     Wir spielen fair. Insbesondere gilt:
 
     * **Offensiv & Defensiv |**
-    bei Auseinandersetzungen gilt die einleitende Gruppe als offensiv, die gegenüberstehende Gruppe als defensiv. Offensive Gruppen dürfen nicht mit mehr als 4 Charakteren agieren, Nachrücken/Austauschen ist während der Aktion nicht gestattet. Wird die offensive Gruppe auf das eigene Hauptquartier zurückgedrängt, darf sie dort mit voller Charakterstärke agieren.
-
-    Wenn eine Gruppierung (z.B. Gesetzeshüter) zum "Gegenschlag" oder ähnlichem ausholt, gilt diese auch als Offensiv. Es können folglich mehrere offensive Gruppierungen als offensiver Part an einer RP-Situation beteiligt sein.
+    bei Auseinandersetzungen gilt die einleitende Gruppe als offensiv, die gegenüberstehende Gruppe als defensiv. Offensive Gruppen dürfen nicht mit mehr als 4 Charakteren agieren, Nachrücken/Austauschen ist während der Aktion nicht gestattet. Wird die offensive Gruppe auf das eigene Hauptquartier zurückgedrängt, darf sie dort mit voller Charakterstärke agieren. Wenn eine Gruppierung (z.B. Gesetzeshüter) zum "Gegenschlag" oder ähnlichem ausholt, gilt diese auch als Offensiv. Es können folglich mehrere offensive Gruppierungen als offensiver Part an einer RP-Situation beteiligt sein.
 
     * **3rd Party |**
     Das Eingreifen in laufende Aktionen ist allen Gruppen/Charakteren untersagt, welche für die gegnerischen Gruppe bei Beginn der Aktion nicht als Akteur erkennbar waren. Sich erkennbar zu machen ist Aufgabe derer, die sich einzumischen beabsichtigen. 
