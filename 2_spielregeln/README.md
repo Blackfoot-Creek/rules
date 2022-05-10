@@ -36,7 +36,7 @@
 
     - Verstümmelung | RDR2 ermöglicht das Abschießen von Gliedmassen und Köpfen. Dies wird nicht absichtlich herbeigeführt oder ausgespielt. Ausgenommen sind bewilligte Charaktertode, wenn die Verstümmelung unmittelbar zum Tod führt und folglich nicht bespielt werden muss (Dynamit, etc.).
 
-    - Rape / Vergewaltigung | Sexueller Abus in jeglicher Form ist ausgeschlossen, dies beinhaltet auch konsensuales Rape-RP.
+    - Rape / Vergewaltigung | Sexueller Abuse in jeglicher Form ist ausgeschlossen, dies beinhaltet auch konsensuales Rape-RP.
 
     - Fail RP | sonstiges Fehlverhalten wie Anspielungen auf das Regelwerk, Ausnutzung der Spielmechanik (z.B. "Lasso schneller als Waffe", F-Fesseln); das Ausnutzen der “Schütze dein Leben”-Regel beim Gegenüber, Ausspielen der Mannstärke, etc. Darunter zählt auch das nicht Berücksichtigen von NPCs und dem, was sie gesehen haben. NPC's merken sich, was ihr gemacht habt.
  
