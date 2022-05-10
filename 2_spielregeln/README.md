@@ -6,7 +6,7 @@
 
 2. **Schütze dein Leben** 
 
-    Dein Leben ist dein oberstes Gut, es zu schützen ist dein stärkster Antrieb. Der Vodooheiler (Respawn-Funktion) ist etwas unzuverlässig. Spiele deine Verletzungen ordentlich aus, damit diese gut verheilen können.
+    Dein Leben ist dein oberstes Gut, es zu schützen ist dein stärkster Antrieb. Der Vodooheiler (Respawn-Funktion) ist etwas unzuverlässig. Spiele deine Verletzungen ordentlich aus, damit diese gut verheilen können. 
 
 3. **Namen**
 
@@ -28,7 +28,7 @@
 
     Bleib in deinem Charakter, und nimm nichts dorthin mit. Die folgenden Verhaltensweisen sind im Roleplay nicht gestattet:
 
-    - Meta | Das Verwenden von Informationen die du außerhalb deines Charakters bekommen hast. 
+    - Meta | Das Verwenden von Informationen die du außerhalb deines Charakters bekommen hast oder das Verbreiten von Informationen außerhalb des Charakters. IC Infos haben OOC so wenig verloren wie Meta-Infos IC. 
 
     - Power | Das Aufzwingen einer Situation. Lass deinen Mitspielern Luft zum atmen und die Gelegenheit, sich einer Situation zu entziehen. Gebt eurem gegenüber Handlungsspielraum, indem ihr z.B. bei Erpressungsituationen erfüllbare Forderungen stellt.
 
@@ -36,9 +36,9 @@
 
     - Verstümmelung | RDR2 ermöglicht das Abschießen von Gliedmassen und Köpfen. Dies wird nicht absichtlich herbeigeführt oder ausgespielt. Ausgenommen sind bewilligte Charaktertode, wenn die Verstümmelung unmittelbar zum Tod führt und folglich nicht bespielt werden muss (Dynamit, etc.).
 
-    - Rape / Vergewaltigung | Sexueller Abus in jeglicher Form ist ausgeschlossen, dies beinhaltet auch konsensuales Rape-RP.
+    - Rape / Vergewaltigung | Sexueller Abuse in jeglicher Form ist ausgeschlossen, dies beinhaltet auch konsensuales Rape-RP.
 
-    - Fail RP | sonstiges Fehlverhalten wie Anspielungen auf das Regelwerk; das Ausnutzen der “Schütze dein Leben”-Regel beim Gegenüber, etc.
+    - Fail RP | sonstiges Fehlverhalten wie Anspielungen auf das Regelwerk, Ausnutzung der Spielmechanik (z.B. "Lasso schneller als Waffe", F-Fesseln); das Ausnutzen der “Schütze dein Leben”-Regel beim Gegenüber, Ausspielen der Mannstärke, etc. Darunter zählt auch das nicht Berücksichtigen von NPCs und dem, was sie gesehen haben. NPC's merken sich, was ihr gemacht habt.
  
     - Combat Logging & RP-Flucht | das bewusste sich Entziehen aus einer RP-Situation weil einem diese unangenehm ist oder man ein unliebsames Ergebnis befürchtet. Wenn du wegen technischer Gründe disconnectest, findest du dich innerhalb von 10 Minuten wieder in der RP-Situation ein. Sollte das nicht möglich sein, ist unverzüglich das Community Management zu informieren, wenn möglich kannst Du zusätzlich die zurückgelassene Partei OOC anschreiben.
 
@@ -49,7 +49,7 @@
     Wir spielen fair. Insbesondere gilt:
 
     * **Offensiv & Defensiv |**
-    bei Auseinandersetzungen gilt die einleitende Gruppe als offensiv, die gegenüberstehende Gruppe als defensiv. Offensive Gruppen dürfen nicht mit mehr als 4 Charakteren agieren, Nachrücken/Austauschen ist während der Aktion nicht gestattet. Wird die offensive Gruppe auf das eigene Hauptquartier zurückgedrängt, darf sie dort mit voller Charakterstärke agieren. Wenn eine Gruppierung (z.B. Gesetzeshüter) zum "Gegenschlag" oder ähnlichem ausholt, gilt diese auch als Offensiv. Es können folglich mehrere offensive Gruppierungen als offensiver Part an einer RP-Situation beteiligt sein.
+    bei Auseinandersetzungen gilt die einleitende Gruppe als offensiv, die gegenüberstehende Gruppe als defensiv. Offensive Gruppen dürfen nicht mit mehr als 4 Charakteren agieren, Nachrücken/Austauschen ist während der Aktion nicht gestattet. Wird die offensive Gruppe auf das eigene Hauptquartier zurückgedrängt, darf sie dort mit voller Charakterstärke agieren. Wenn eine Gruppierung (z.B. Gesetzeshüter) zum "Gegenschlag" oder ähnlichem ausholt, gilt diese auch als Offensiv. Es können folglich mehrere offensive Gruppierungen als offensiver Part an einer RP-Situation beteiligt sein. Das Verursachen/Inkaufnehmen von Anlässen, aus denen gegen die eigenen Gruppe offensiv vorgegangen wird, wird ebenfalls als Offensivaktion gewertet. Das betrifft u.A. "baiting", reiten über bepflanzte Felder, Verstöße gegen IC-Gesetze, etc.
 
     * **3rd Party |**
     Das Eingreifen in laufende Aktionen ist allen Gruppen/Charakteren untersagt, welche für die gegnerischen Gruppe bei Beginn der Aktion nicht als Akteur erkennbar waren. Sich erkennbar zu machen ist Aufgabe derer, die sich einzumischen beabsichtigen. 
@@ -58,7 +58,7 @@
     Das bewusste Abwarten einer Zeit, zu der der Gegner reduziert anwesend ist, ist verboten - selbst wenn diese Informationen IC erlangt wurden. Das Abwarten der eigenen Mannstärke hingegen ist natürlich erlaubt, genauso wie das Abwarten einer nützlichen Witterung/Tageszeit. Ebenfalls untersagt ist das Abwarten von geplanten Serverrestarts um sich z.B. besser absetzen zu können oder dem Gegner die ärztliche Versorgung zu verwehren.
 
     * **Leben lassen |**
-    Lasst euren Opfern die Möglichkeit zu überleben. Dies gilt auch für das, was ihr Ihnen bei einem Überfall lassen sollt. Wenn jemand beispielsweise mit “normalem” Ausrüstungsumfang überfallen wird, ist ihm der wesentliche Teil seines Hab und Gutes zu belassen. Despawnen von Pferden/Kutschen um das Inventar vor einem Überfall zu schützen, ist nicht erlaubt.
+    Lasst euren Opfern die Möglichkeit zu überleben. Dies gilt auch für das, was ihr Ihnen bei einem Überfall lassen sollt. Wenn jemand beispielsweise mit “normalem” Ausrüstungsumfang überfallen wird, ist ihm der wesentliche Teil seines Hab und Gutes zu belassen. Despawnen von Pferden/Kutschen um das Inventar vor einem Überfall zu schützen, ist nicht erlaubt. 
 
     * **Offensive Lügen |**
     Unwahrheiten zu verbreiten, die lediglich dem Ziel dienen, dem anderen zu schaden, ist nicht erlaubt. Wenn ihr mit einer Situation nichts zu tun habt, dann habt ihr mit einer Situation nichts zu tun. Unwahres Zitieren ist unter keinen Umständen gestattet. Bleibt hier bitte fair; keiner will wenn er IC geht, erst einmal 2 Stunden Gerüchte aus dem Weg räumen.
@@ -75,7 +75,7 @@
 
     Pferd/Wagen sowie verwendete Kleidung/Waffen können als Indiz dienen, allerdings ist davon auszugehen, dass im Einzugsbereich von Blackfoot Creek diese mehrfach vorkommen. Davon ausgenommen sind Signature-Outfits, diese dürfen erkannt werden. 
 
-    Mehrere Indizien können zusammengenommen zu einer beweisartigen Situation führen.
+    Mehrere Indizien können zusammengenommen zu einer beweisartigen Situation führen. Gesetzeshüter dürfen Masken gewaltsam entfernen, wenn vorher die Möglichkeit gegeben wurde die Situation zu verlassen, ohne die eigene Identität preisgeben zu müssen.
 
 11. **New Life**
 

@@ -4,7 +4,7 @@
     Wir unterscheiden zwischen zivilen Fraktionen, staatlichen Fraktionen und sog. Bad-Fraks. Die staatlichen Fraktionen sind z.B. Ärzte, und Sheriffs. Den Bad-Fraks sind alle Fraktionen zuzuordnen, die ihre Einnahmen zu einem nicht nur unwesentlichen Teil aus kriminellen Quellen schöpfen wollen. Zivilfraktionen sind alle übrigen.
 
 2. **Fraktionsentstehung und Auflösung**
-    Fraktionen werden auf Antrag vom Community Management eingerichtet. Um eine Fraktion zu beantragen, bedarf es mindestens dreier Gründungsmitglieder. Die Auflösung ist auf Antrag oder aufgrund von Inaktivität möglich. Bad-Fraks können zusätzlich aufgrund verlorener Kriege aufgelöst werden, wenn dies Gegenstand der Kapitulationsverhandlung war. 
+    Fraktionen werden auf Antrag vom Community Management eingerichtet. Um eine Fraktion zu beantragen, bedarf es mindestens dreier Gründungsmitglieder. Jede Fraktion bestimmt einen Anführer, welcher die Fraktion gegenüber dem Community Team vertritt. Dies gilt insbesondere auch, wenn IC merhere Personen eine Fraktion führen. Die Auflösung ist auf Antrag oder aufgrund von Inaktivität möglich. Bad-Fraks können zusätzlich aufgrund verlorener Kriege aufgelöst werden, wenn dies Gegenstand der Kapitulationsverhandlung war. 
 
 3. **Kriege**
     Kriege sind bewaffnete Auseinandersetzungen zwischen mehreren Bad-Fraks. Diese sind vom Community Management zu bewilligen und mit allen beteiligten Fraktionsleiterinnen zu besprechen (Kriegserklärung). Die obsiegende Partei entscheidet soweit wie möglich mit der unterlegen Partei über die Kapitulationsbedingungen, dabei kommt den oben genannten Fairplay-Regeln besonderes Gewicht zu.
@@ -20,7 +20,9 @@
 6. **Fraktionsein-/austritt (Bad-Frak)**
     Bad-Fraks können ihre Mitglieder nach einer mindestens dreitägigen Probezeit, per “Blood-in” in die Fraktion aufnehmen. Unter einem Blood-In verstehen wir, wenn dem aufzunehmenden Mitglied vor der Aufnahme klargemacht wird, dass ein Fraktionsaustritt nur über den sog. “Blood-Out” möglich ist. Zu diesem Zeitpunkt muss noch die Möglichkeit bestehen, sich unbeschadet von der Fraktion abzuwenden.
 
-    Ein Austritt ist über ein “Blood-Out” möglich, dabei stirbt der Charakter. Alternativ kann die Fraktion mit dem Austretenden eine Vereinbarung treffen, unter welcher die Parteien ihrer Wege gehen. Dabei kann ein Blood-Out jedenfalls nachgeholt werden, wenn die Vereinbarung gebrochen wird. Blood-Outs bedürfen keiner Bewilligung vom Community Management, werden aber von diesem begleitet. Daher sind sie anzumelden.
+    Die Teilnahme an einer Bad-Frak ohne technisch in der Fraktion zu sein (weil man beispielsweise bereits einer Zivilfraktion angehört; Staatsfraktionen oder andere Bad-Fraks sind hier weiter nicht möglich) ist nur möglich, wenn ein bewilligtes Charakterkonzept vorliegt. Diesem Konzept muss entnommen werden können, wie der Charakter sicherstellt, dass die Vorteile die er als Zivilist oder aus einer anderen Fraktion genießt nicht ohne Ausgleich in die Bad-Frak "sideloaded" werden. Zusätzlich ist ein Blood-In erforderlich. Danach gilt der Charakter nicht mehr als Zivilist.
+
+    Ein Austritt ist über ein “Blood-Out” möglich, dabei stirbt der Charakter. Alternativ kann die Fraktion mit dem Austretenden eine Vereinbarung treffen, unter welcher die Parteien ihrer Wege gehen. Dabei kann ein Blood-Out jedenfalls nachgeholt werden, wenn die Vereinbarung gebrochen wird. Blood-Outs bedürfen keiner Bewilligung vom Community Management, werden aber von diesem begleitet. Daher sind sie anzumelden. Inhaltlich entscheidet über den Blood-Out alleine der Anführer, ein weiterer RP-Hintergrund ist nicht erfoderlich. Sollte die Fraktion mit mehreren Anfrührern bespielt werden, genügt das Wort eines einzelnen - wobei der Rest nicht einverstanden sein muss. Ebenfalls sind Blood-Outs Anführer gegen Anführer möglich.
 
 
 
