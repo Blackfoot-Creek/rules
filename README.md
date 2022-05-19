@@ -11,8 +11,8 @@ Vom Gaptooth im Südwesten Blackfoot Creeks bis hin zur den nordöstlichen Ausl�
 
 Blackfoot Creek ist ein Zusammenschluss von Leuten, die ein Improvisationstheater in die digitale Welt transformieren wollen. Wir erhoffen uns dadurch, einen niedrigschwelligen Einstieg in dieses Hobby anbieten zu können und bieten eine Alternative zu ähnlichen Genres wie Pen & Paper - Rollenspielen, Live Action RolePlay oder dem im Gaming-Bereich vielleicht eher bekannten Arma/GTA/Scum-RP. Ihr werdet bei uns sicher Elemente all dieser Genres wiederfinden. Blackfoot Creek ist Comedy, Drama, Emotion durch Improvisation. 
 
-### **Wen wollen wir mit dem Projekt ansprechen**
-Wir richten uns an alle begeisterten Hobby-Schauspieler und diejenigen, die es gerne werden wollen. Dein Antrieb in unserer Gruppe ist es, deinem Gegenüber eine Vorlage anzubieten, die dieser "umsetzen" kann. Du besitzt die Empathie dich in dein Gegenüber abstrakt von euren Rollen hineinzuversetzen und bist in der Lage zu erkennen, was deine Handlung für Reaktionsmöglichkeiten anbietet. Dies verleiht dir gleichzeitig auch die Fähigkeit zu erkennen, welche Optionen dein Spielpartner dir anbietet. Reflektion ist dein Weg um aus einem guten Schauspieler ein besserer zu werden. Um au dem nächsten Drama ein Super-Epos zu machen, aus der nächsten Comedy-Szene einen absoluten Brüller, von dem die Leute sich noch lange erzählen werden.
+### **Wen wollen wir ansprechen**
+Blackfoot Creek richtet sich an alle begeisterten Hobby-Schauspieler und diejenigen, die es gerne werden wollen. Dein Antrieb in unserer Gruppe ist es, deinem Gegenüber eine Vorlage anzubieten, die dieser "umsetzen" kann. Du besitzt die Empathie dich in dein Gegenüber abstrakt von euren Rollen hineinzuversetzen und bist in der Lage zu erkennen, was deine Handlung für Reaktionsmöglichkeiten anbietet. Dies verleiht dir gleichzeitig auch die Fähigkeit zu erkennen, welche Optionen dein Spielpartner dir anbietet. Reflektion ist dein Weg um aus einem guten Schauspieler ein besserer zu werden. Um au dem nächsten Drama ein Super-Epos zu machen, aus der nächsten Comedy-Szene einen absoluten Brüller, von dem die Leute sich noch lange erzählen werden.
 
 Um dir einen Einstieg in diese Thematik zu erleichtern, haben wir einige Regeln und Erklärungen zusammengestellt, damit wir alle einen gemeinsamen Grund haben, auf dem wir uns bewegen.
 
@@ -25,7 +25,7 @@ In diesem Sinne: Wir wünschen dir viel Erfolg auf deinem Weg - _leave your Foot
 #### **Regelwerk:**
 - [Community-Regeln](1_communityregeln/README.md)
 - [Spielregeln](2_spielregeln/README.md)
-- [Fraktionsregeln](3_fraktionsregeln/README.md)
+- [Organisationsregeln](3_organisationsregeln/README.md)
 - [Creator-Guidelines](4_creator-guidelines/README.md)
 
 ---

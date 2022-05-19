@@ -51,9 +51,9 @@ _(diese Regeln gelten für die Community, also immer dann, wenn ihr nicht in eur
 
 ➜ die Spielregeln findet ihr hier: [#spielregeln ](2_spielregeln/README.md)
 
-### __**D. FRAKTIONSREGELN**__
+### __**D. ORGANISATIONSREGELN**__
 
-➜ die Fraktionsregeln findet ihr hier: [#fraktionsregeln](3_fraktionsregeln/README.md)
+➜ die Organisationsregeln findet ihr hier: [#organisationsregeln](3_organisationsregeln/README.md)
 
 ### __**E. Änderungen**__
 
