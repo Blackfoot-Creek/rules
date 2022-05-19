@@ -2,7 +2,7 @@
 
 1. **Moderiere deinen Content**
 
-    Wir erwarten von dir als Content Creator, dass du deine Communities als Teil von von Blackfoot Creek verstehst und unsere Communityregeln entsprechend in deiner Bubble durchsetzt. Negative Äußerungen über das RP anderer Mitspieler behältst du im Auge und stellst sicher, dass auch hier kein RP-Bewertungen stattfindent.
+    Wir erwarten von dir als Content Creator, dass du deine Communities als Teil von Blackfoot Creek verstehst und unsere Communityregeln entsprechend in deiner Bubble durchsetzt. Negative Äußerungen über das RP anderer Mitspieler behältst du im Auge und stellst sicher, dass auch hier keine RP-Bewertungen stattfinden.
 
 2. **Branding**
 
@@ -10,11 +10,11 @@
 
 3. **Roleplay** 
 
-    Als Content Creater treffen dich keine besonderen Regeln was dein Roleplay angeht. Es gelten auch für dich die ganz normalen Communityregeln. Sei dir trotzdem darüber bewusst zu sein, dass dein Content (insbesondere Echtzeit-Content) eine Gefahr für das Roleplay deiner Mitspieler darstellt. Bitte etabliere angemessene Maßnahmen wie z.B. Metaschutz.
+    Als Content Creater treffen dich keine besonderen Regeln was dein Roleplay angeht. Es gelten auch für dich die ganz normalen Communityregeln. Sei dir trotzdem darüber im Klaren, dass dein Content (insbesondere Echtzeit-Content) eine Gefahr für das Roleplay deiner Mitspieler darstellt. Bitte etabliere angemessene Maßnahmen wie z.B. Metaschutz.
 
 4. **Werbung** 
 
-    Werbung ist im Kanal #content-ankündigung erlaubt, dort haben nur Du und deine Content-Creator-Freunde Schreibrechte. So ein Kanal ist für Leser am spannendsten, wenn du nicht nur einfach einen Link zu deinem Stream droppst. Sei auch hier gerne kreativ. Du darfst gerne eigene Thumbnails oder sonstigen spezifische Werbung posten. Nackte Embeddings deiner Profile (Profilbild von Twitch in beinahe-Vollbild) bitten wir dich, selbstständig zu entfernen. Das sogenannte "taggen" (@-Erwähnungen) und spammen ist im Ankündigungskanal nicht erlaubt. Dass nur das bewerben von Blackfoot Creek Content erlaubt ist, versteht sich von selbst.
+    Werbung ist im Kanal #content-ankündigung erlaubt, dort haben nur Du und deine Content-Creator-Freunde Schreibrechte. So ein Kanal ist für Leser am spannendsten, wenn du nicht nur einfach einen Link zu deinem Stream dropst. Sei auch hier gerne kreativ. Du darfst gerne eigene Thumbnails oder sonstige spezifische Werbung posten. Nackte Embeddings deiner Profile (Profilbild von Twitch in beinahe-Vollbild) bitten wir dich, selbstständig zu entfernen. Das sogenannte "taggen" (@-Erwähnungen) und spammen ist im Ankündigungskanal nicht erlaubt. Dass nur das bewerben von Blackfoot Creek Content erlaubt ist, versteht sich von selbst.
 
 5. **Fairplay**
 
