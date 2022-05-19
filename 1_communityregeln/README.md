@@ -4,7 +4,7 @@
 
 Das Setting von Blackfoot Creek ist Bestandteil des Regelwerkes. [#über-blackfoot-creek](../README.md)
 
-### **B. COMMUNITY REGELN**__
+### __**B. COMMUNITY REGELN**__
 _(diese Regeln gelten für die Community, also immer dann, wenn ihr nicht in euren Charakteren seid)_
 
 1. **Alter und Sprache**
@@ -46,7 +46,7 @@ _(diese Regeln gelten für die Community, also immer dann, wenn ihr nicht in eur
 
 6. **Respekt und Fairness**
 
-    Behandelt euer Gegenüber wie einen Menschen, dem ihr im Restaurant gegenüber sitzt. Wenn ihr nichts Nettes zu sagen habt, ist es manchmal sinnvoll, gar nichts zu sagen. Wir lügen uns (ooc) nicht an, seid fair. Öffentliche Bewertungen von RP-Situationen und/oder Qualität findet nicht statt, diese gehen nur die beteiligten Spieler etwas an. Dasselbe gilt für die Charaktere, die Person oder die RP-Erfahrung einer Person. Wir lästern nicht.
+    Behandelt euer Gegenüber wie einen Menschen, dem ihr im Restaurant gegenüber sitzt. Wenn ihr nichts Nettes zu sagen habt, ist es manchmal sinnvoll, gar nichts zu sagen. Wir lügen uns (außerhalb der digitalen Bühne) nicht an, seid fair. Öffentliche Bewertungen von RP-Situationen und/oder Qualität findet nicht statt, diese gehen nur die beteiligten Spieler etwas an. Dasselbe gilt für die Charaktere, die Person oder die RP-Erfahrung einer Person. Wir lästern nicht.
 
 ### __**C. SPIELREGELN**__
 
