@@ -1,19 +1,19 @@
 ![headerimage: community-regeln](../0_assets/images/spielregeln.png?raw=true)
 
 ## **Was ist Improvisationstheater, was ist Blackfoot Creek**
-Improvisationstheater ist eine Theaterform, bei der vorher nicht einstudierte Szenen aufgeführt werden. Das Thema ist natürlich durch die Bühne die wir gewählt haben (Red Read Redemption 2) und die dadurch verfügbaren Requisiten vorbestimmt. Aus der spontanen Interaktion entstehen Vorschläge dienen dann als Auslöser und Leitfaden für die daraufhin entstehenden Szenen. Eine Geschichte entsteht aus der Spontanität der Teilnehmer und der gegenseitigen Inspiration. 
+Improvisationstheater ist eine Theaterform, bei der vorher nicht einstudierte Szenen aufgeführt werden. Das Thema ist natürlich durch die Bühne, die wir gewählt haben (Red Dead Redemption 2) und die dadurch verfügbaren Requisiten vorbestimmt. Aus der spontanen Interaktion entstehen Vorschläge, die dann als Auslöser und Leitfaden für die daraufhin entstehenden Szenen dienen. Eine Geschichte entsteht aus der Spontanität der Teilnehmer und der gegenseitigen Inspiration. 
 
 ## **Unsere Spielregeln**
 
 ### **Status**
-Status bezeichnet das Machtgefälle zwischen den Figuren der Teilnehmer. Hauptsächlich unterscheiden wir den **Tiefstatus** vom **Hochstatus**. Ein/Einige Teilnehmer sind in einer dominanteren Position, spielen eine gewisse Überordnung über andere aus. Diese wiederum im Tiefstatus befindlichen Figuren kommt die Aufgabe zu sich unterzuordnen, sein eigenes Verhalten an die Vorgaben anzupassen. Diese "Machtgefüge" können langfristig sein, andere wechseln im Minutentakt hin und her. Dabei ist es sinnvoll, deutlich unterscheibare Status zu bespielen, es gibt keinen "neutralen" Status. Status ist immer relativ zwischen den dargestellten Figuren - und als gute Teilnehmer seid ihr euch dieser Zustände bewusst (Akzeptanz) und könnt sie erst dadurch spielerisch variirern (Statuswechsel). 
+Status bezeichnet das Machtgefälle zwischen den Figuren der Teilnehmer. Hauptsächlich unterscheiden wir den **Tiefstatus** vom **Hochstatus**. Ein oder mehrere Teilnehmer sind in einer dominanteren Position, spielen eine gewisse Überordnung über andere aus. Diesen wiederum im Tiefstatus befindlichen Figuren kommt die Aufgabe zu sich unterzuordnen und sein eigenes Verhalten an die Vorgaben anzupassen. Diese "Machtgefüge" können langfristig sein, andere wechseln im Minutentakt hin und her. Dabei ist es sinnvoll, deutlich unterscheidbare Status zu bespielen, eine "neutrale" Position gibt es nicht. Status ist immer relativ zwischen den dargestellten Figuren. Als gute Teilnehmer seid ihr euch dieser Zustände bewusst (Akzeptanz) und könnt sie erst dadurch spielerisch variieren (Statuswechsel). 
 
-Wer den Hochstatus spielen will, begibt sich zwangsläufig in eine Abhängigkeitsverhältnis. So kann der König (Hochstatus) nur so lange herrschen, wie genügend Teilnehmer die Untertanen (Tiefstatus) spielen wollen und damit die Herrschaft des Königs anerkennen. Der König ist bestrebt, seine Untertanen "bei Laune" zu halten. Diese bereitschaft wiederum hat natürlich ihre eigenen, ungeschriebenen Grenzen. Letztlich sind die Teilnehmer im Tiefstatus am Drücker und bestimmen das Potential einer Szene.
+Wer den Hochstatus spielen will, begibt sich zwangsläufig in ein Abhängigkeitsverhältnis. So kann der König (Hochstatus) nur so lange herrschen, wie genügend Teilnehmer die Untertanen (Tiefstatus) spielen wollen und damit die Herrschaft des Königs anerkennen. Der König ist bestrebt, seine Untertanen "bei Laune" zu halten. Diese bereitschaft wiederum hat natürlich ihre eigenen, ungeschriebenen Grenzen. Letztlich sind die Teilnehmer im Tiefstatus am Drücker und bestimmen das Potential einer Szene.
 
 ### **Opferregel**
-Die Opferregel meint, dass das "Opfer" einer Handlung selbst entscheidet, welche Konsequenzen diese hat. Letztlich erfolgt aber auf jeden Fall eine angemessene Reaktion. Wer z.B. bei einer Schießerei getroffen wird, entscheidet selber ob er liegen bleibt oder sich noch weiterschleppen kann. Die Spielengine gibt uns da natürlich gewisse "Leitlinien" vor, welche einfach anzunehmen und einzubinden sind. 
+Die Opferregel meint, dass das "Opfer" einer Handlung selbst entscheidet, welche Konsequenzen diese hat. Letztlich erfolgt aber auf jeden Fall eine angemessene Reaktion. Wer z.B. bei einer Schießerei getroffen wird, entscheidet selber, ob er liegen bleibt oder sich noch weiterschleppen kann. Die Spiel-Engine gibt uns da natürlich gewisse "Leitlinien" vor, welche einfach anzunehmen und einzubinden sind. 
 
-Die kreative Freiheit die die Opferregel eröffnet, gilt dabei immer in beide Richtungen. Man kann von seinem Opfer nicht erwarten, dass es Dinge genauso ausspielt, wie man selbst es erwartet. Auf das Wesentliche heruntergebrochen ergeben sich zwei "Faustregeln":
+Die kreative Freiheit, die die Opferregel eröffnet, gilt dabei immer in beide Richtungen. Man kann von seinem Opfer nicht erwarten, dass es Dinge genauso ausspielt, wie man selbst es erwartet. Auf das Wesentliche heruntergebrochen ergeben sich zwei "Faustregeln":
 
 1. Wenn du angespielt wirst, zeige irgendeine _plausible_ Reaktion. Spiele irgendwas: Egal was, aber spiel.
 2. Wenn du jemanden anspielst, erwarte keine bestimmte Reaktion. Nimm hin, was deine Mitspieler daraus machen und arbeite mit dem weiter.
@@ -25,7 +25,7 @@ Dazu gehört lautes Brüllen, Stöhnen, Schreien bei Verwundungen. Einfach alles
 Stell die Außenwirkung deiner Handlung in den Mittelpunkt. Spiel so, dass die Szene für andere Teilnehmer ansehnlich und immersiv wirkt. So ist es z.B. ineffektiv, in einem Boxkampf bei einem Kopftreffer die Deckung fallen zu lassen und zu taumeln. Dein Boxpartner spielt allerdings auch nach dem Hollywood-Prinzip und wird dir vor dem nächsten Schlag die Gelegenheit geben, dein taumeln zuende auszuspielen. Allgemein wird Kreativität durch ein möglichst "effizientes" Spiel - im aktuellen Fall Ausnutzung der Verteidigungslücke - nur bestraft und damit unterdrückt: Folglich ist dieses Verhalten bei uns tabu.
 
 ### **Telling - und warum wir das nicht wollen**
-Telling beschreibt ein Verhalten, bei dem alleine durch Beschreibung einer Situation Fakten geschaffen werden. Ein Beispiel ist, wenn ein Teilnehmer dem Anderen mitteilt: "Ich habe dir gerade deine Waffen abgenommen und im Safe sicher verstaut". Dieser Handlungsstrang lässt sich z.B. auch bespielen, indem du deine Mitspieler in dein Vorhaben einbindest und sie die Waffen selbst verstauen - oder sie an einem Ort ihrer Wahl deponieren. Hier kommt wieder euer relativer Status zum tragen. Dadurch stellt ihr ausserdem sicher, dass alle Beteiligten mit dem Ergebnis einverstanden sind.
+Telling beschreibt ein Verhalten, bei dem alleine durch Beschreibung einer Situation Fakten geschaffen werden. Ein Beispiel ist, wenn ein Teilnehmer dem Anderen mitteilt: "Ich habe dir gerade deine Waffen abgenommen und im Safe sicher verstaut". Dieser Handlungsstrang lässt sich z.B. auch bespielen, indem du deine Mitspieler in dein Vorhaben einbindest und sie die Waffen selbst verstauen oder sie an einem Ort ihrer Wahl deponieren. Hier kommt wieder euer relativer Status zum tragen. Dadurch stellt ihr ausserdem sicher, dass alle Beteiligten mit dem Ergebnis einverstanden sind.
 
 Es geht nicht darum, ein gewünschtes Ergebnis zu erzielen, sondern die Situation möglichst filmreif auzuspielen. Die Faustregel lautet dabei: "Kannst du dein Ziel nur durch Telling erreichen, kannst du es gar nicht erreichen".
 
@@ -52,7 +52,7 @@ Spiele deine Figur authentisch; gib ihr eine Persönlichkeit, die Bestand hat un
     bei Auseinandersetzungen gilt die einleitende Gruppe als offensiv, die gegenüberstehende Gruppe als defensiv. Offensive Gruppen dürfen nicht mit mehr als 4 Figuren agieren, Nachrücken/Austauschen ist während der Aktion nicht gestattet. Wird die offensive Gruppe auf das eigene Hauptquartier zurückgedrängt, darf sie dort mit voller Stärke agieren. Wenn eine Gruppierung (z.B. Gesetzeshüter) zum "Gegenschlag" oder ähnlichem ausholt, gilt diese auch als Offensiv. Es können folglich mehrere offensive Gruppierungen als offensiver Part an einer Szene beteiligt sein. Das Verursachen/Inkaufnehmen von Anlässen, aus denen gegen die eigenen Gruppe offensiv vorgegangen wird, wird ebenfalls als Offensivaktion gewertet. Das betrifft u.A. "baiting", reiten über bepflanzte Felder, Verstöße gegen Gesetze, etc.
 
     * **3rd Party |**
-    Das Eingreifen in laufende Aktionen ist allen Gruppen/Figuren untersagt, welche für die gegnerischen Gruppe bei Beginn der Aktion nicht als Akteur erkennbar waren. Sich erkennbar zu machen ist Aufgabe derer, die sich einzumischen beabsichtigen. 
+    Das Eingreifen in laufende Aktionen ist allen Gruppen/Figuren untersagt, welche für die gegnerische Gruppe bei Beginn der Aktion nicht als Akteur erkennbar waren. Sich erkennbar zu machen ist Aufgabe derer, die sich einzumischen beabsichtigen. 
 
     * **Timing |**
     Das bewusste Abwarten einer Zeit, zu der der Gegner reduziert anwesend ist, ist verboten - selbst wenn diese Informationen eurer Figur bekannt sind. Das Abwarten der eigenen Mannstärke hingegen ist natürlich erlaubt, genauso wie das Abwarten einer nützlichen Witterung/Tageszeit. 
@@ -60,7 +60,8 @@ Spiele deine Figur authentisch; gib ihr eine Persönlichkeit, die Bestand hat un
     * **Offensive Lügen |**
     Unwahrheiten zu verbreiten, die lediglich dem Ziel dienen, anderen Figuren zu schaden, ist nicht erlaubt. Wenn ihr mit einer Situation nichts zu tun habt, dann habt ihr mit einer Situation nichts zu tun. Unwahres Zitieren ist unter keinen Umständen gestattet. Bleibt hier bitte fair; keiner will erst einmal 2 Stunden Gerüchte aus dem Weg räumen.
 
-    * **Psychische Gewalt |** Gaslighting und Co. sind untersagt. Dasselbe gilt für das Projizieren von Konflikten auf unbeteiligte Dritte.
+    * **Psychische Gewalt |**
+    Gaslighting und Co. sind untersagt. Dasselbe gilt für das Projizieren von Konflikten auf unbeteiligte Dritte.
 
 2. **Maskierung**
 
@@ -78,7 +79,7 @@ Spiele deine Figur authentisch; gib ihr eine Persönlichkeit, die Bestand hat un
 
 4. **Namen**
 
-    Gib deiner Figur einen fiktiven Namen und trage diesen bei der Erstellung vollstandig ein. Du benötigst genau einen Vor- und einen Nachnamen. Spaßnamen oder Namen echter Personen sind nicht erlaubt.
+    Gib deiner Figur einen fiktiven Namen und trage diesen bei der Erstellung vollständig ein. Du benötigst genau einen Vor- und einen Nachnamen. Spaßnamen oder Namen echter Personen sind nicht erlaubt.
 
 5. **Bugs und Cheats**
 
@@ -103,19 +104,19 @@ Spiele deine Figur authentisch; gib ihr eine Persönlichkeit, die Bestand hat un
 10. **Tabus**
 
     * **Teilnehmer- und Figurwissen |** 
-    Manche Informationen sind dir als Teilnehmer des Spiels zugänglich, die deiner Figur aber nicht zur Verfügung stehen. Das kann daran liegen, dass deine Figur z.B. nicht die intellektuelle Fähigkeit besitzt um etwas zu erkennen. Oder Du nutzt die 3rd Person Camera um über einen Stein zu sehen oder jemand nähert sich von hinten und betritt den Sichtbereich deiner Camera. Es kann aber auch sein, dass du Informationen in Besprechungen oder sonstigen Quellen erhältst. Deine Figur verwendet natürlich nur Informationen, die ihr zur Verfügung stehen. Zwischen Teilnehmer- und Figurwissen ist strikt zu trennen. Dasselbe gilt für das Verbreiten von Figurwissen an Teilnehmer, deren Figuren dieses Wissen (noch) nicht haben.
+    Manche Informationen sind dir als Teilnehmer des Spiels zugänglich, die deiner Figur aber nicht zur Verfügung stehen. Das kann daran liegen, dass deine Figur z.B. nicht die intellektuelle Fähigkeit besitzt, um etwas zu erkennen. Oder Du nutzt die 3rd Person Camera, um über einen Stein zu sehen oder jemand nähert sich von hinten und betritt den Sichtbereich deiner Kamera. Es kann aber auch sein, dass du Informationen in Besprechungen oder sonstigen Quellen erhältst. Deine Figur verwendet natürlich nur Informationen, die ihr zur Verfügung stehen. Zwischen Teilnehmer- und Figurwissen ist strikt zu trennen. Dasselbe gilt für das Verbreiten von Figurwissen an Teilnehmer, deren Figuren dieses Wissen (noch) nicht haben.
 
     * **Willkürliche Gewalt |** 
     Offensive Handlungen (z.B. Fäuste, Lassos, Waffen) gegen Personen, Tiere oder NPC's ohne entsprechenden Hintergrund.
 
     * **Verstümmelung |** 
-    Red Dead Redemption 2 ermöglicht das Abschießen von Gliedmassen und Köpfen. Dies wird nicht absichtlich herbeigeführt oder ausgespielt. Ausgenommen sind bewilligte Exekutionen, wenn die Verstümmelung unmittelbar zum Tod führt und folglich nicht bespielt werden muss (Dynamit, etc.).
+    Red Dead Redemption 2 ermöglicht das Abschießen von Gliedmaßen und Köpfen. Dies wird nicht absichtlich herbeigeführt oder ausgespielt. Ausgenommen sind bewilligte Exekutionen, wenn die Verstümmelung unmittelbar zum Tod führt und folglich nicht bespielt werden muss (Dynamit, etc.).
 
     * **Explizite Sexualität |** 
     Romantik ist erlaubt, Sexualität wird allerdings weder an- noch ausgespielt. Dies betrifft ausdrücklich auch konsensuale sexuelle Handlungen.
 
     * **AFK-Farming |** 
-    Geld verdienen, während du AFK bist. Wenn du deine Figur für länger als 15 Minuten nicht bespielen kannst, musst du dich von deinem Paycheck-Job abmelden. Wenn dir das nicht möglich ist, musst du dich ausloggen. Dies gilt auch für bewusstes Anmelden am Paycheck-Job wenn du bereits weißt, dass du gleich noch einmal für weniger als 15 Minuten afk musst.
+    Geld verdienen, während du AFK bist. Wenn du deine Figur für länger als 15 Minuten nicht bespielen kannst, musst du dich von deinem Paycheck-Job abmelden. Wenn dir das nicht möglich ist, musst du dich ausloggen. Dies gilt auch für bewusstes Anmelden am Paycheck-Job, wenn du bereits weißt, dass du gleich noch einmal für weniger als 15 Minuten afk musst.
 
 ---
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
