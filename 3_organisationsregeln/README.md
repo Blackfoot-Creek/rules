@@ -24,7 +24,7 @@
 
 6. **Organisations-Austritt (Zivil- und Staatsorganisationen)**
 
-    Zivile Organisationen können ihre Mitglieder durch Kündigung (mit oder ohne Einverständnis des Mitglieds) entlassen. Den Gekündigten ist es für 5 Spieltage (Tage, an denen sich der Teilnehmer für mindestens 30 Minuten auf der digitalen Bühne befindet) nicht möglich, einer anderen Organisation beizutreten.
+    Zivile Organisationen können ihre Mitglieder durch Kündigung (mit oder ohne Einverständnis des Mitglieds) entlassen. Den Gekündigten ist es für 5 Spieltage (Tage, an denen sich der Teilnehmer für mindestens 30 Minuten on-stage befindet) nicht möglich, einer anderen Organisation beizutreten.
 
 7. **Organisations-Eintritt/-Austritt (Bad-Orgs)**
 
