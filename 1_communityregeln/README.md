@@ -28,6 +28,7 @@ _(diese Regeln gelten für die Community, also immer dann, wenn ihr nicht in eur
     Alle Communitymitglieder sind sich gleichgestellt. Es spielt keine Rolle, wieviel jemand zur Community beiträgt. Egal, ob Community Manager, Content Creator oder Gelegenheitsspieler, allen gegenüber finden die Community-Regeln Anwendung. Alle fordern von ihrem Gegenüber die Einhaltung dieser ein. 
 
 4. **Diskussionskultur**
+
     Wir diskutieren offen, eine Bewertung des Diskussionsbedarfs von anderen findet nicht statt. Wer sich nicht beteiligen möchte, der darf sich raushalten. Es gelten die folgenden Leitsätze[^1]: 
 
     - Begründe deinen Standpunkt
