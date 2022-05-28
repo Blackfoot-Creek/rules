@@ -40,7 +40,7 @@ Manchmal kommt es vor, dass wir angespielt werden und keine Ahnung haben, wohin 
 
 ### **Authentizität**
 
-Spiele deine Figur authentisch; gib ihr eine Persönlichkeit, die Bestand hat und konsistent ist. Spiele nicht die Spielmechanik, spiele deine Rolle. Gib deiner Figur Stärken - und noch viel wichtiger, Schwächen! Mach dir dazu Gedanken, wir werden danach fragen. Passe deine Wortwahl dem späten 19. Jahrhundert an.
+Spiele deine Figur authentisch; gib ihr eine Persönlichkeit, die Bestand hat und konsistent ist. Spiele nicht die Spielmechanik, spiele deine Rolle. Gib deiner Figur Stärken - und noch viel wichtiger, Schwächen! Mach dir dazu Gedanken, wir werden danach fragen. Passe deine Wortwahl dem späten 19. Jahrhundert an. Verwende Redewendungen mit modernen Bezügen zurückhaltend.
 
 ### **Und sonst so?**
 
