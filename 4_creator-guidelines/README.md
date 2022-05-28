@@ -4,7 +4,7 @@
 
 2. **Moderiere deinen Content**
 
-    Wir erwarten von dir als Content Creator, dass du deine Communities als Teil von Blackfoot Creek verstehst und unsere Communityregeln entsprechend in  durchsetzt. Negative Äußerungen über das Spiel anderer Teilnehmer behältst du im Auge und stellst sicher, dass auch hier keine Bewertungen stattfinden.
+    Wir erwarten von dir als Content Creator, dass du deine Communities als Teil von Blackfoot Creek verstehst und unsere Communityregeln entsprechend durchsetzt. Negative Äußerungen über das Spiel anderer Teilnehmer behältst du im Auge und stellst sicher, dass auch hier keine Bewertungen stattfinden.
 
 3. **Branding**
 
