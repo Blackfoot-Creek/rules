@@ -2,7 +2,7 @@
 
 1. **Begriffe**
 
-    Wir unterscheiden zwischen zivilen Organisationen, staatlichen Organisationen und sog. Bad-Orgs. Die staatlichen Organisationen sind z.B. Ärzte und Sheriffs. Den Bad-Orgs sind alle Organisationen zuzuordnen, die ihre Einnahmen zu einem nicht unwesentlichen Teil aus kriminellen Quellen schöpfen wollen. Zivile Organisationen sind alle übrigen.
+    Wir unterscheiden zwischen zivilen Organisationen, staatlichen Organisationen und sog. Bad-Orgs. Die staatlichen Organisationen sind z.B. Ärzte und Sheriffs. Den Bad-Orgs sind alle Organisationen zuzuordnen, die ihre Einnahmen zu einem nicht unwesentlichen Teil aus kriminellen Quellen schöpfen wollen. Zivile Organisationen sind alle Übrigen.
 
 2. **Organisations-Entstehung und -Auflösung**
 
