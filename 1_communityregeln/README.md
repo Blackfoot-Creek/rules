@@ -50,11 +50,11 @@ _(diese Regeln gelten für die Community, also immer dann, wenn ihr nicht in eur
 
 ### __**C. SPIELREGELN**__
 
-➜ die Spielregeln findet ihr hier: [#spielregeln ](2_spielregeln/README.md)
+➜ die Spielregeln findet ihr hier: [#spielregeln ](../2_spielregeln/README.md)
 
 ### __**D. ORGANISATIONSREGELN**__
 
-➜ die Organisationsregeln findet ihr hier: [#organisationsregeln](3_organisationsregeln/README.md)
+➜ die Organisationsregeln findet ihr hier: [#organisationsregeln](../3_organisationsregeln/README.md)
 
 ### __**E. Änderungen**__
 
