@@ -4,7 +4,7 @@
 
 Das Setting von Blackfoot Creek ist Bestandteil des Regelwerkes. [#über-blackfoot-creek](../README.md)
 
-### **B. COMMUNITY REGELN**__
+### __**B. COMMUNITY REGELN**__
 _(diese Regeln gelten für die Community, also immer dann, wenn ihr nicht in euren Charakteren seid)_
 
 1. **Alter und Sprache**
@@ -18,16 +18,17 @@ _(diese Regeln gelten für die Community, also immer dann, wenn ihr nicht in eur
     - Rassistische, diskriminierende, sexualisierte oder verbotene Inhalte
     - Nachstellung, Mobbing, Cyber-Mobbing
     - Toxischer Umgang wie Baiting, etc.
-    - Diskussionen über politische und religiöse und weltanschauliche Ansichten
+    - Diskussionen über politische, religiöse und weltanschauliche Ansichten
     - Spam
     - “Schreien” (Caps-Lock)
     - Unerwünschte Privatnachrichten (PN) an Nutzer oder Teammitglieder
 
 3. **Gleichheit**
 
-    Alle Communitymitglieder sind sich gleichgestellt. Es spielt keine Rolle, wieviel jemand zu Community beiträgt. Egal ob Community Manager, Content Creator oder Gelegenheitsspieler, allen gegenüber finden die Community-Regeln Anwendung. Alle fordern von ihrem Gegenüber die Einhaltung dieser ein. 
+    Alle Communitymitglieder sind sich gleichgestellt. Es spielt keine Rolle, wieviel jemand zur Community beiträgt. Egal, ob Community Manager, Content Creator oder Gelegenheitsspieler, allen gegenüber finden die Community-Regeln Anwendung. Alle fordern von ihrem Gegenüber die Einhaltung dieser ein. 
 
 4. **Diskussionskultur**
+
     Wir diskutieren offen, eine Bewertung des Diskussionsbedarfs von anderen findet nicht statt. Wer sich nicht beteiligen möchte, der darf sich raushalten. Es gelten die folgenden Leitsätze[^1]: 
 
     - Begründe deinen Standpunkt
@@ -36,7 +37,7 @@ _(diese Regeln gelten für die Community, also immer dann, wenn ihr nicht in eur
     - Gemeinsamkeiten finden
     - Keine Belehrungen
     - Gib sachliche Kritik
-    - Deeskaliere wenn du das Gefühl hast, dein Gesprächspartner fühlt sich angegriffen
+    - Deeskaliere, wenn du das Gefühl hast, dein Gesprächspartner fühlt sich angegriffen
     - Bleib beim Thema
 
 5. **Fehlerkultur** 
@@ -45,15 +46,15 @@ _(diese Regeln gelten für die Community, also immer dann, wenn ihr nicht in eur
 
 6. **Respekt und Fairness**
 
-    Behandelt euer Gegenüber wie einen Menschen, dem ihr im Restaurant gegenüber sitzt. Wenn ihr nichts nettes zu sagen habt, ist es manchmal sinnvoll, gar nichts zu sagen. Wir lügen uns (ooc) nicht an, seid fair. Öffentliche Bewertungen RP-Situationen u.o. Qualität findet nicht statt, diese gehen nur die beteiligten Spieler etwas an. Dasselbe gilt für die Charaktere, die Person oder die RP-Erfahrung einer Person. Wir lästern nicht.
+    Behandelt euer Gegenüber wie einen Menschen, dem ihr im Restaurant gegenüber sitzt. Wenn ihr nichts Nettes zu sagen habt, ist es manchmal sinnvoll, gar nichts zu sagen. Wir lügen uns (off-stage) nicht an, seid fair. Öffentliche Bewertungen von RP-Situationen und/oder Qualität findet nicht statt, diese gehen nur die beteiligten Spieler etwas an. Dasselbe gilt für die Charaktere, die Person oder die RP-Erfahrung einer Person. Wir lästern nicht.
 
 ### __**C. SPIELREGELN**__
 
-➜ die Spielregeln findet ihr hier: [#spielregeln ](2_spielregeln/README.md)
+➜ die Spielregeln findet ihr hier: [#spielregeln ](../2_spielregeln/README.md)
 
-### __**D. FRAKTIONSREGELN**__
+### __**D. ORGANISATIONSREGELN**__
 
-➜ die Fraktionsregeln findet ihr hier: [#fraktionsregeln](3_fraktionsregeln/README.md)
+➜ die Organisationsregeln findet ihr hier: [#organisationsregeln](../3_organisationsregeln/README.md)
 
 ### __**E. Änderungen**__
 
